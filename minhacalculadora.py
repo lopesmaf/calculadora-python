@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 29 18:52:32 2021
-
-@author: marce
-"""
-
 # mostrar mensagem na tela
 print("Selecione o número da operação desejada:")
 print("")
